@@ -1,0 +1,10 @@
+---
+name: panamax-test
+description: Playing around with panamax
+keywords: nodejs mongodb
+type: NodeJS
+documentation: ''
+images:
+- name: phusion_passenger-full_latest
+  source: phusion/passenger-full:latest
+  type: Default
